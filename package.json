@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "mota:toggle"
   },
-  "repository": "https://github.com/atom/mota",
+  "repository": "https://github.com/rykka/mota.atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
